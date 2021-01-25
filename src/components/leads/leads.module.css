@@ -1,0 +1,13 @@
+.col {
+    width: 300px;
+}
+
+.item {
+    margin: 10px;
+    display: flex;
+    cursor: pointer;
+}
+
+.wrapper {
+    padding: 10px;
+}
